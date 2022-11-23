@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+.idea/
+dist/
+build/
+.fleet/
 # testing
 /coverage
 
